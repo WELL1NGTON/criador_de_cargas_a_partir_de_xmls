@@ -3,7 +3,6 @@ import NavBar from './components/navbar';
 import MainMenu from './components/mainMenu';
 import NfesContainer from './components/nfesContainer';
 import './App.css';
-import { render } from '@testing-library/react';
 import { xml2json } from './xml2json.js';
 
 class App extends Component {
